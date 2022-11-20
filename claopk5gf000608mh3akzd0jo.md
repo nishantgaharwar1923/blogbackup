@@ -9,7 +9,7 @@ For a better perceptive let's take an example.
 # 1. Container Without Flex.
 ![container.PNG](https://cdn.hashnode.com/res/hashnode/image/upload/v1668907262605/uwQDLluNA.PNG align="left")
 
-```
+```css
 .container{
     border: 3px solid black;
     width: 50%;
@@ -23,15 +23,15 @@ For a better perceptive let's take an example.
 # 2. Container With Flex.
 
 ![row.PNG](https://cdn.hashnode.com/res/hashnode/image/upload/v1668935705338/q_IM63PAc.PNG align="left")
-```
+```css
 .container{
     border: 3px solid black;
     width: 50%;
+    display: flex; /* Adding Flex in code.*/
 }
 .container-items {
     font-size: 35px;
     border: 2px dotted black;
-    display: flex; /* Adding Flex in code.*/
 }
 ``` 
 As we can see by just adding **"display: flex"** it takes all the properties of flexbox and as I mentioned earlier about the flex-direction it takes the **row** as the default value.

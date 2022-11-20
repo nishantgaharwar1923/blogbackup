@@ -22,7 +22,7 @@ For a better perceptive let's take an example.
 
 # 2. Container With Flex.
 
-![container with flex.PNG](https://cdn.hashnode.com/res/hashnode/image/upload/v1668907488047/d7NqlMVuv.PNG align="left")
+![row.PNG](https://cdn.hashnode.com/res/hashnode/image/upload/v1668935705338/q_IM63PAc.PNG align="left")
 ```
 .container{
     border: 3px solid black;

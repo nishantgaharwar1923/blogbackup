@@ -2,7 +2,7 @@
 
 Flexbox delivers a more efficient way to assign space around elements. There is no need to know the screen size to use flexbox.
 
-And one more thing to note is that flex's default direction is the **column** in web development whereas in android development its default direction is the **row**.
+And one more thing to note is that flex's default direction is the **row** in web development whereas in android development its default direction is the **column**.
 
 For a better perceptive let's take an example.
 
@@ -34,7 +34,7 @@ For a better perceptive let's take an example.
     display: flex; /* Adding Flex in code.*/
 }
 ``` 
-As we can see by just adding **"display: flex"** it takes all the properties of flexbox and as I mentioned earlier about the flex-direction it takes the **column** as the default value.
+As we can see by just adding **"display: flex"** it takes all the properties of flexbox and as I mentioned earlier about the flex-direction it takes the **row** as the default value.
 
 In the next article, we will go through all flexbox properties.
 
